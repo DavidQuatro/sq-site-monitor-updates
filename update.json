@@ -1,0 +1,8 @@
+{
+  "version": "1.4.0",
+  "package": "https://raw.githubusercontent.com/DavidQuatro/sq-site-monitor-updates/main/sq-site-monitor-1.4.0.zip",
+  "sha256": "e310cdf5fd96881f673753d27d010f1d0dd1e9f387df466cb2e72ac8800bc3e5",
+  "signature": "+Ek7ajwno5Rz6D/DI7zFRp2xSObPgtKVY4zwJQyMm+lOzuMoDvsnoJjzQhNTkqCB6f/S6g2tFcZxyVomTb89Dw==",
+  "requires_php": "7.4",
+  "published": "2026-10-22T15:05:03.394Z"
+}
